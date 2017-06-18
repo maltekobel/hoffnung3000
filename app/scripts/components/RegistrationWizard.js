@@ -123,7 +123,7 @@ class RegistrationWizard extends Component {
           The participation fee is <strong>25,00 Euro</strong>. We will provide you with daily breakfast and the tools to organize yourself during HOFFNUNG 3000.
         </p>
         <p>
-          You can pay via PayPal to get direct access or choose to transfer the money via wire-transfer if you prefer this. We will enable your account after your money arrived on our bank-account.
+          You can pay via PayPal to get direct access or choose to transfer the money via wire-transfer if you prefer this. We will enable once we have received your money.
         </p>
         <hr />
 
@@ -133,10 +133,10 @@ class RegistrationWizard extends Component {
         </p>
         <ul>
           <li>
-            As a participant you are liable for your own gear and instruments. As the host we dont take any responsibily for possible damage through accidents or usage of other participants.
+            As a participant you are liable for your own gear and instruments. As hosts we don't take any responsibility for possible damage through accidents or usage of other participants.
           </li>
           <li>
-            With a cancellation until the 01.08. we will pay you the full participation fee. After this date this is not anymore possible anymore.
+            You can cancel your participation before 01 August and still get a refund of your participation fee. After this date refund is no longer possible.
           </li>
         </ul>
         <div className="form__field form__field--inline">
